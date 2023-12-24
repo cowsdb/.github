@@ -1,0 +1,2 @@
+# .github
+CowsDB Organization Banner
