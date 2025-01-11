@@ -4,7 +4,7 @@
 
 > CowsDB is a community managed and owned chdb/ClickHouse alternative build
 
-<img src="https://github.com/cowsdb/cowsdb/assets/1423657/7d937499-9512-4a5f-b832-7a689112fc1e" width=600>
+<img src="https://github.com/user-attachments/assets/60b106df-39a0-4790-a792-f1eedaeb51bb" width=600>
 
 ## Features
 - Serverless In-process SQL OLAP Engine build with chdb/ClickHouse
