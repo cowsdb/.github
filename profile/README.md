@@ -7,7 +7,5 @@
 <img src="https://github.com/cowsdb/cowsdb/assets/1423657/7d937499-9512-4a5f-b832-7a689112fc1e" width=600>
 
 ## Features
-- In-process SQL OLAP Engine, powered by chdb/ClickHouse
-- Designed for native bindings and library integrations
-- No python obsession. Every binding matters.
+- Serverless In-process SQL OLAP Engine build with chdb/ClickHouse
 - No corpoate owners. 100% community governance.
