@@ -1,11 +1,8 @@
-<img src="https://github.com/user-attachments/assets/685cc433-a5bb-45a4-bbd2-4f132f6dec44" width=140>
+# CowsDB
 
-# CowsDB 🐄
+> CowsDB is a community maintained chdb/ClickHouse alternative server without corporate owners
 
-> CowsDB is a community managed and owned chdb/ClickHouse alternative build
+![image](https://github.com/user-attachments/assets/90ad8a01-e888-4e35-9681-48d4a6a4844d)
 
-<img src="https://github.com/user-attachments/assets/60b106df-39a0-4790-a792-f1eedaeb51bb" width=600>
 
-## Features
-- Serverless In-process SQL OLAP Engine build with chdb/ClickHouse
-- No corpoate owners. 100% community governance.
+> _Cows are peaceful and produce milk. Snakes bite._
